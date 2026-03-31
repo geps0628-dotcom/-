@@ -2,7 +2,7 @@
 // @name         AutoDL 实例运行计时器
 // @namespace    http://tampermonkey.net/
 // @version      1.1.0
-// @description  AutoDL 容器实例启动后自动显示运行时长，尽量避免页面卡顿
+// @description  AutoDL 容器实例启动后自动显示运行时长
 // @author       GPS
 // @match        https://www.autodl.com/console/instance/list
 // @match        https://www.autodl.com/console/instance/list/*
